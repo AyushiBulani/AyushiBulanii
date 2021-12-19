@@ -1,1 +1,5 @@
-# AyushiBulanii
+- 👋 Hi, I’m @AyushiBulani
+- 👀 I’m interested in all things tech.
+- 🌱 I’m currently learning App Development, ML and Data Science
+- 💞️ I’m looking to collaborate on Data Science and related projects.
+- 📫 How to reach me @AyushiB on LinkedIn
